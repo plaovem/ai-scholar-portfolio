@@ -1,0 +1,27 @@
+{
+  "awards": [
+    "2024 年国家自然科学基金优秀青年项目获得者",
+    "2023 年 CVPR 最佳论文提名",
+    "2022 年微软亚洲研究院学者奖"
+  ],
+  "papers": [
+    {
+      "title": "Multimodal Large Language Models: A Survey",
+      "authors": "Li, T., et al.",
+      "conference": "ACL 2024",
+      "link": "#"
+    },
+    {
+      "title": "Efficient Visual Prompt Tuning for Diffusion Models",
+      "authors": "Li, T., et al.",
+      "conference": "NeurIPS 2023",
+      "link": "#"
+    },
+    {
+      "title": "Knowledge-aware Pretraining of Language and Vision Models",
+      "authors": "Li, T., et al.",
+      "conference": "ICCV 2023",
+      "link": "#"
+    }
+  ]
+}
